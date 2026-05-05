@@ -1,0 +1,30 @@
+I have the cresci-2017 full dataset folder with multiple csv formats inside:
+
+1. crowdflower_results.csv
+	- crowdflower_results_aggregated.csv
+	- crowdflower_results_contributors.csv
+	- crowdflower_results_detailed.csv
+2. fake_followers.csv
+	- tweets.csv
+	- users.csv
+3. genuine_accounts.csv
+	- tweets.csv
+	- users.csv
+4. social_spambots_1.csv
+	- tweets.csv
+	- users.csv
+5. social_spambots_2.csv
+	- tweets.csv
+	- users.csv
+6. social_spambots_3.csv
+	- tweets.csv
+	- users.csv
+7. traditional_spambots_1.csv
+	- tweets.csv
+	- users.csv
+8. traditional_spambots_2.csv
+	- users.csv
+9. traditional_spambots_3.csv
+	- users.csv
+10. traditional_spambots_4.csv
+	- users.csv

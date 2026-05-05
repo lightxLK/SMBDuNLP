@@ -1,0 +1,18 @@
+# Large datasets
+cresci-2017.csv/
+twibot-22.csv/
+cresci-2017.csv.rar
+twibot-22.csv
+
+# Generated large CSVs
+bot_detection_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.h5
+*.pt
